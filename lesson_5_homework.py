@@ -1,4 +1,4 @@
-temperature = 24  
+temperature = input("What is the temperture")
 
 if temperature >= 19:
     print("It is warm enough to wear light clothes!")
